@@ -764,7 +764,7 @@ fieldset {
   padding: 10px 30px;
   color: black;
   background-color: transparent;
-  border: 2px solid crimson;
+  border: 2px solid #425bb5;
   font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -775,7 +775,7 @@ fieldset {
 
 .cta:hover {
   color: white;
-  background-color: crimson;
+  background-color: #425bb5;
 }
 
 /* Responsive media queries
